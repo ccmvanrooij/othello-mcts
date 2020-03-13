@@ -1,3 +1,4 @@
+package uu.othello;
 import java.awt.BorderLayout;
 import java.awt.Button;
 import java.awt.Canvas;
@@ -10,6 +11,8 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
+
+import uu.othello.evaluators.ERandom;
 
 
 public class Gui extends Frame implements ActionListener {

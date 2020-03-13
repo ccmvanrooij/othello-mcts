@@ -1,5 +1,8 @@
+package uu.othello.evaluators;
 
 import java.util.LinkedList;
+
+import uu.othello.Othello;
 
 
 /**

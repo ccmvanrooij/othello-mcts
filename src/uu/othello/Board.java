@@ -1,3 +1,4 @@
+package uu.othello;
 
 public class Board {
 	private int n = 0;

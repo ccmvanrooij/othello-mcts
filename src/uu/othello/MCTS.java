@@ -1,3 +1,4 @@
+package uu.othello;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -8,6 +9,11 @@ import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Stack;
 import java.util.concurrent.TimeUnit;
+
+import uu.othello.evaluators.EMaxStones;
+import uu.othello.evaluators.EMobility;
+import uu.othello.evaluators.ERandom;
+import uu.othello.evaluators.Evaluator;
 
 
 /**

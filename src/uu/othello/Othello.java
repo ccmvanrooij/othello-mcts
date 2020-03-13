@@ -1,3 +1,4 @@
+package uu.othello;
 import java.util.LinkedList;
 
 public class Othello {

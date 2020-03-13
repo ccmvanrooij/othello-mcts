@@ -1,3 +1,7 @@
+package uu.othello.evaluators;
+
+import uu.othello.Othello;
+
 /**
  *
  * @author Floor & Christian
